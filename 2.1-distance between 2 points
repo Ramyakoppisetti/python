@@ -1,0 +1,7 @@
+import math as m
+x1=int(input("Enter x coordinate of first point"))
+y1=int(input("Enter y coordinate of first point"))
+x2=int(input("Enter x coordinate of second point"))
+y2=int(input("Enter y coordinate of second point"))
+a=m.sqrt(m.pow((x2-x1),2)+m.pow((y2-y1),2))
+print(a)
