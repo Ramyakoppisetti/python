@@ -1,0 +1,4 @@
+s=40
+  print("value of s is",20)
+s=40
+print("value of s is",20)
