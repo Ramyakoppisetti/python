@@ -1,0 +1,5 @@
+import math as m
+a=int(input("enter starting num:"))
+z=int(input("enter ending num:"))
+for i in range(a,z+1):
+    print(i)
